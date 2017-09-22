@@ -1,0 +1,25 @@
+
+n
+>linha/src/main/java/br/com/itransporte/linha/MainActivity.java,d/1/d1477396f2b8a24a8706eada69ab1da5defbe6e2
+Q
+!base/src/main/AndroidManifest.xml,3/3/338d63d7b567744d4da7bd19e2b70f1f19b4d69e
+q
+Alinha/src/test/java/br/com/itransporte/linha/ExampleUnitTest.java,a/6/a61ba2044d87629f294642aa93bca21d60c78cb5
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+R
+"linha/src/main/AndroidManifest.xml,9/6/96c105ff66620761493181d6227dbc65ea5150f3
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+A
+base/build.gradle,3/0/30faf96bd34633205bceb4dda84a27a3761a1e29
+b
+2base/src/main/java/br/com/itransporte/api/Api.java,5/6/566d4ae47ded03284f555033e9c21eb87721d235
+f
+6base/src/main/java/br/com/itransporte/model/Linha.java,4/8/487453ed47366d2cc04c5060ec75169166ac5886
+g
+7base/src/main/java/br/com/itransporte/model/Parada.java,9/e/9ed0ea4a136a81ca6449fdabc7d94c73392f6770
+i
+9base/src/main/java/br/com/itransporte/model/Corredor.java,d/8/d810eccfd593d83338b505525be7d3deeeb7ca4c
+h
+8base/src/main/java/br/com/itransporte/model/Empresa.java,4/0/40921a3e169f4f55cac6930e6a9c8526a2e94869
