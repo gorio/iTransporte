@@ -1,0 +1,4 @@
+
+wsquid:S1450"VRemove the "headers" field and declare it as a local variable in the relevant methods.(÷«—¿ûÿÿÿÿ8‚ú·ºê+
+Lsquid:S1068"+Remove this unused "headers" private field.(÷«—¿ûÿÿÿÿ8‚ú·ºê+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ëßá°8ö±®»ê+

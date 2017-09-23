@@ -84,18 +84,17 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getPosicoes() {
-        Call<List<Posicao>> getposicao = ApiManager.getInstance().getService().getPosicao();
+        Call<Posicao> getposicao = ApiManager.getInstance().getService().getPosicao();
 
-        getposicao.enqueue(new Callback<List<Posicao>>() {
+        getposicao.enqueue(new Callback<Posicao>() {
 
             @Override
-            public void onResponse(Call<List<Posicao>> call, Response<List<Posicao>> response) {
+            public void onResponse(Call<Posicao> call, Response<Posicao> response) {
                 if (response != null) {
 
                     if (response.body() != null) {
                         try {
-                            List<Posicao> resp = response.body();
-
+                            Posicao resp = response.body();
                         } catch (Exception e) {
                             e.printStackTrace();
 
@@ -105,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             @Override
-            public void onFailure(Call<List<Posicao>> call, Throwable t) {
+            public void onFailure(Call<Posicao> call, Throwable t) {
                 Toast.makeText(MainActivity.this, t.getMessage(), Toast.LENGTH_LONG).show();
             }
         });

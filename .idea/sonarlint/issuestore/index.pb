@@ -13,8 +13,6 @@ R
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 A
 base/build.gradle,3/0/30faf96bd34633205bceb4dda84a27a3761a1e29
-b
-2base/src/main/java/br/com/itransporte/api/Api.java,5/6/566d4ae47ded03284f555033e9c21eb87721d235
 f
 6base/src/main/java/br/com/itransporte/model/Linha.java,4/8/487453ed47366d2cc04c5060ec75169166ac5886
 g
@@ -23,3 +21,11 @@ i
 9base/src/main/java/br/com/itransporte/model/Corredor.java,d/8/d810eccfd593d83338b505525be7d3deeeb7ca4c
 h
 8base/src/main/java/br/com/itransporte/model/Empresa.java,4/0/40921a3e169f4f55cac6930e6a9c8526a2e94869
+i
+9base/src/main/java/br/com/itransporte/model/Previsao.java,5/b/5b20927140b2f6f9ac309014d140ba0290a4ae77
+h
+8base/src/main/java/br/com/itransporte/model/Posicao.java,5/4/5435be23f1fdae53056bbf46c2168e53f85b16bf
+f
+6base/src/main/java/br/com/itransporte/utils/Utils.java,3/3/3367b5054191ffd55f45f20d2d1f8d600cf2b0d1
+i
+9base/src/main/java/br/com/itransporte/api/ApiManager.java,7/9/790430db7eac424d2e62cc9653bb822beafa7543

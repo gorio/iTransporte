@@ -1,2 +1,12 @@
 
 csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+Ysquid:S1854"8Remove this useless assignment to local variable "resp".(æåÀïøÿÿÿÿ8éÇÿºê+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µµüºê+
+Ysquid:S1854"8Remove this useless assignment to local variable "resp".(ç‰•´üÿÿÿÿ8½‰ƒ»ê+
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Á¢Ë8µµüºê+
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Á¢Ë8éÇÿºê+
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Á¢Ë8½‰ƒ»ê+
+Jsquid:S1481")Remove this unused "resp" local variable.(ç‰•´üÿÿÿÿ8½‰ƒ»ê+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½‰ƒ»ê+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8éÇÿºê+
+Jsquid:S1481")Remove this unused "resp" local variable.(æåÀïøÿÿÿÿ8éÇÿºê+

@@ -121,7 +121,7 @@ public class ApiManager {
          * @return Lista de posições
          */
         @GET("/v2.1/Posicao")
-        Call<List<Posicao>> getPosicao();
+        Call<Posicao> getPosicao();
 
         /**
          * Retorna uma lista com todos os veículos de uma determinada linha com suas devidas posições
